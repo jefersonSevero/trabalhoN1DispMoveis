@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="pessoas">Pessoas</string>
+    <string name="cadPessoas">Cadastro de pessoas</string>
+    <string name="nome">Nome</string>
+    <string name="hintNome">Digite o nome...</string>
+    <string name="fone">Telefone</string>
+    <string name="hintFone">Digite o telefone...</string>
+    <string name="email">E-mail</string>
+    <string name="hintEmail">Digite o e-mail...</string>
+    <string name="inserir">Inserir</string>
+</resources>
